@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ error.xml [QSA,L]
